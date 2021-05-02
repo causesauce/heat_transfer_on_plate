@@ -2,7 +2,9 @@
 The following code is written in Python usin Matplotlib and NumPy libraries. It shows a plot of temperature propagation on 2d plate of size (m x n).
 
 m - number of rows
+
 n - number of columns
+
 top, bottom, left, right - initial temperature values for every side of the plate
 
 
