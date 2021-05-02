@@ -9,7 +9,7 @@ top, bottom, left, right - initial temperature values for every side of the plat
 
 
 example values and plot for them:
-#############
+
 
 m = 40
 
@@ -24,5 +24,5 @@ bottom = 150
 left = 100
 
 right = 50
-#############
+
 ![image](https://user-images.githubusercontent.com/67865361/116825035-9399ca00-ab8d-11eb-9935-5cdaf70fc4ee.png)
