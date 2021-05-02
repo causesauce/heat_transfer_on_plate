@@ -9,9 +9,11 @@ top, bottom, left, right - initial temperature values for every side of the plat
 
 
 example values and plot for them:
+
 m = 40
 
 n = 40
+
 
 top = 200
 
